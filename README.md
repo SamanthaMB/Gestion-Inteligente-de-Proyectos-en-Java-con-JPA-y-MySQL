@@ -61,5 +61,6 @@ Este proyecto implementa una aplicación para gestionar empleados, departamentos
 ## Contacto
 
 **Autor:** Samantha Mohedano Barrena 
+
 **GitHub:** [https://github.com/SamanthaMB/Gestion-Inteligente-de-Proyectos-en-Java-con-JPA-y-MySQL](https://github.com/SamanthaMB/Gestion-Inteligente-de-Proyectos-en-Java-con-JPA-y-MySQL)
 
